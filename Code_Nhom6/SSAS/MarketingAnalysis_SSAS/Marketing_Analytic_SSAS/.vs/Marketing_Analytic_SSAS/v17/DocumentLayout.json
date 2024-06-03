@@ -1,0 +1,80 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Nam3_Ki2\\Data_WareHouse\\Nhom6_DAWH430784_23_2_01\\Project_Nhom6\\Code_Nhom6\\SSAS\\MarketingAnalysis_SSAS\\Marketing_Analytic_SSAS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0CDD07-9FB9-44AA-9176-B7D10380CC37}|Marketing_Analytic_SSAS\\Marketing_Analytic_SSAS.dwproj|E:\\Nam3_Ki2\\Data_WareHouse\\Nhom6_DAWH430784_23_2_01\\Project_Nhom6\\Code_Nhom6\\SSAS\\MarketingAnalysis_SSAS\\Marketing_Analytic_SSAS\\Marketing_Analytic_SSAS\\Data Warehouse Marketing Analytics 1.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{BE0CDD07-9FB9-44AA-9176-B7D10380CC37}|Marketing_Analytic_SSAS\\Marketing_Analytic_SSAS.dwproj|solutionrelative:Marketing_Analytic_SSAS\\Data Warehouse Marketing Analytics 1.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0CDD07-9FB9-44AA-9176-B7D10380CC37}|Marketing_Analytic_SSAS\\Marketing_Analytic_SSAS.dwproj|E:\\Nam3_Ki2\\Data_WareHouse\\Nhom6_DAWH430784_23_2_01\\Project_Nhom6\\Code_Nhom6\\SSAS\\MarketingAnalysis_SSAS\\Marketing_Analytic_SSAS\\Marketing_Analytic_SSAS\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{BE0CDD07-9FB9-44AA-9176-B7D10380CC37}|Marketing_Analytic_SSAS\\Marketing_Analytic_SSAS.dwproj|solutionrelative:Marketing_Analytic_SSAS\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE0CDD07-9FB9-44AA-9176-B7D10380CC37}|Marketing_Analytic_SSAS\\Marketing_Analytic_SSAS.dwproj|E:\\Nam3_Ki2\\Data_WareHouse\\Nhom6_DAWH430784_23_2_01\\Project_Nhom6\\Code_Nhom6\\SSAS\\MarketingAnalysis_SSAS\\Marketing_Analytic_SSAS\\Marketing_Analytic_SSAS\\Dim Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{BE0CDD07-9FB9-44AA-9176-B7D10380CC37}|Marketing_Analytic_SSAS\\Marketing_Analytic_SSAS.dwproj|solutionrelative:Marketing_Analytic_SSAS\\Dim Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Data Warehouse Marketing Analytics 1.cube [Design]",
+              "DocumentMoniker": "E:\\Nam3_Ki2\\Data_WareHouse\\Nhom6_DAWH430784_23_2_01\\Project_Nhom6\\Code_Nhom6\\SSAS\\MarketingAnalysis_SSAS\\Marketing_Analytic_SSAS\\Marketing_Analytic_SSAS\\Data Warehouse Marketing Analytics 1.cube",
+              "RelativeDocumentMoniker": "Marketing_Analytic_SSAS\\Data Warehouse Marketing Analytics 1.cube",
+              "ToolTip": "E:\\Nam3_Ki2\\Data_WareHouse\\Nhom6_DAWH430784_23_2_01\\Project_Nhom6\\Code_Nhom6\\SSAS\\MarketingAnalysis_SSAS\\Marketing_Analytic_SSAS\\Marketing_Analytic_SSAS\\Data Warehouse Marketing Analytics 1.cube [Design]",
+              "RelativeToolTip": "Marketing_Analytic_SSAS\\Data Warehouse Marketing Analytics 1.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-22T17:38:03.512Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dim Date.dim [Design]",
+              "DocumentMoniker": "E:\\Nam3_Ki2\\Data_WareHouse\\Nhom6_DAWH430784_23_2_01\\Project_Nhom6\\Code_Nhom6\\SSAS\\MarketingAnalysis_SSAS\\Marketing_Analytic_SSAS\\Marketing_Analytic_SSAS\\Dim Date.dim",
+              "RelativeDocumentMoniker": "Marketing_Analytic_SSAS\\Dim Date.dim",
+              "ToolTip": "E:\\Nam3_Ki2\\Data_WareHouse\\Nhom6_DAWH430784_23_2_01\\Project_Nhom6\\Code_Nhom6\\SSAS\\MarketingAnalysis_SSAS\\Marketing_Analytic_SSAS\\Marketing_Analytic_SSAS\\Dim Date.dim [Design]",
+              "RelativeToolTip": "Marketing_Analytic_SSAS\\Dim Date.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-22T06:36:49.511Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dim Customer.dim [Design]",
+              "DocumentMoniker": "E:\\Nam3_Ki2\\Data_WareHouse\\Nhom6_DAWH430784_23_2_01\\Project_Nhom6\\Code_Nhom6\\SSAS\\MarketingAnalysis_SSAS\\Marketing_Analytic_SSAS\\Marketing_Analytic_SSAS\\Dim Customer.dim",
+              "RelativeDocumentMoniker": "Marketing_Analytic_SSAS\\Dim Customer.dim",
+              "ToolTip": "E:\\Nam3_Ki2\\Data_WareHouse\\Nhom6_DAWH430784_23_2_01\\Project_Nhom6\\Code_Nhom6\\SSAS\\MarketingAnalysis_SSAS\\Marketing_Analytic_SSAS\\Marketing_Analytic_SSAS\\Dim Customer.dim [Design]",
+              "RelativeToolTip": "Marketing_Analytic_SSAS\\Dim Customer.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-22T06:36:17.67Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

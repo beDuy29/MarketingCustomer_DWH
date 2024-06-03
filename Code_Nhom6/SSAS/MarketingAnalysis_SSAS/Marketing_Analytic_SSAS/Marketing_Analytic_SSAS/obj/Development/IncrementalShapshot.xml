@@ -1,0 +1,75 @@
+﻿<DeploymentSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Target>
+    <Database>Marketing_Analytic_SSAS</Database>
+    <Server>KHANGTOOF</Server>
+    <ConnectionString>Data Source=KHANGTOOF;Timeout=0</ConnectionString>
+  </Target>
+  <Options>
+    <TransactionalDeployment>false</TransactionalDeployment>
+    <PartitionDeployment>DeployPartitions</PartitionDeployment>
+    <RoleDeployment>DeployRolesRetainMembers</RoleDeployment>
+    <ProcessingOption>DoNotProcess</ProcessingOption>
+    <OutputScript></OutputScript>
+    <ImpactAnalysisFile></ImpactAnalysisFile>
+    <ConfigurationSettingsDeployment>Deploy</ConfigurationSettingsDeployment>
+    <OptimizationSettingsDeployment>Deploy</OptimizationSettingsDeployment>
+    <WriteBackTableCreation>UseExisting</WriteBackTableCreation>
+  </Options>
+  <Snapshot>
+    <ObjectSnapshots>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
+        <TimeStamp>uvFij4L4GpV11mHT/dir2SS2sqY=5/22/2024 2:07:37 AM5/22/2024 2:03:32 AM</TimeStamp>
+        <ID>
+          <String>Data Warehouse Marketing Analytics</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>cv2lOpELNZH23WImQlz9MidA1xk=5/22/2024 2:03:32 AM5/22/2024 2:03:32 AM</TimeStamp>
+        <ID>
+          <String>Data Warehouse Marketing Analytics</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>QDtYedR6XWoYVyptyZ+z3F1kUNY=5/22/2024 1:38:09 PM5/22/2024 1:35:23 PM</TimeStamp>
+        <ID>
+          <String>Dim Customer</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>7uWMzj+u2DPb1peseIznehNxA9g=5/22/2024 9:48:38 PM5/22/2024 1:35:23 PM</TimeStamp>
+        <ID>
+          <String>Dim Date</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>ezAgwgUfDo1hPs9MYa8jSEsl/Js=5/23/2024 12:37:51 AM5/22/2024 11:29:59 PMNsILraqegTLmBzjqcICVqIeWQ2U=5/22/2024 11:34:33 PM5/22/2024 11:29:59 PM</TimeStamp>
+        <ID>
+          <String>Data Warehouse Marketing Analytics 1</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>R3V71sJwMuCPZboiyjdtpaPKCTk=5/22/2024 10:41:31 PM5/22/2024 1:35:23 PMjXBevtmIfdgY0kDrWgZrxiA1D54=5/22/2024 10:02:08 PM5/22/2024 1:35:23 PM</TimeStamp>
+        <ID>
+          <String>Data Warehouse Marketing Analytics</String>
+        </ID>
+      </ObjectSnapshot>
+    </ObjectSnapshots>
+    <DatabaseSnapshot>
+      <Type>Microsoft.AnalysisServices.Database</Type>
+      <TimeStamp>gRvu29BD47vdeT6bemD6AwU7fWw=5/22/2024 2:03:32 AM5/22/2024 2:03:32 AM</TimeStamp>
+      <ID>
+        <String>Marketing_Analytic_SSAS</String>
+      </ID>
+    </DatabaseSnapshot>
+    <Granularity>Coarse</Granularity>
+  </Snapshot>
+  <AssemblyLocations />
+  <ProcessingComplete>true</ProcessingComplete>
+  <LastDeployed>2024-05-22T17:37:53.323333Z</LastDeployed>
+</DeploymentSnapshot>

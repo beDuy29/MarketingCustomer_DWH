@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="localhost.DataWarehouse_MarketingAnalyticsStg"
+  DTS:DTSID="{A8FB2894-559E-41B6-8708-5C3BB33EE4B3}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=localhost;Initial Catalog=DataWarehouse_MarketingAnalyticsStg;Provider=MSOLEDBSQL.1;Integrated Security=SSPI;Application Name=SSIS-Marketing_Analytic_SSIS-{A8FB2894-559E-41B6-8708-5C3BB33EE4B3}localhost.DataWarehouse_MarketingAnalyticsStg;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
