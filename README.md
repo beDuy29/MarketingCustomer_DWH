@@ -26,7 +26,8 @@
 - Using Microsoft Tool: SSIS Tool
 - Includes 3 stages:
   + Step 1: Clean Data Lake and Load Dataset ![image](https://github.com/beDuy29/MarketingCustomer_DWH/assets/117710630/48951081-214f-45e7-a307-eefc387d99f8)
-  + Step 2: Staging ![image](https://github.com/beDuy29/MarketingCustomer_DWH/assets/117710630/eeaa3d3c-4d9e-495e-a0db-65f73b082fbf)
+  + Step 2: Staging
+  ![image](https://github.com/beDuy29/MarketingCustomer_DWH/assets/117710630/eeaa3d3c-4d9e-495e-a0db-65f73b082fbf)
   + Step 3: ETL Staging to Dimension and Create Fact Table, then set Foreign Key ![image](https://github.com/beDuy29/MarketingCustomer_DWH/assets/117710630/f15920b2-6033-48e8-ba1e-d155cbb1e4dc)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 5. SSAS Process
