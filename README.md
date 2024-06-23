@@ -18,3 +18,5 @@
 - Contains information about customer influences on Marketing campaigns.
 - Includes attributes such as complaints, total approved campaigns, total spent,...
 - This table will refer to the previous two Dimension tables to establish relationships.
+## 3. Schema
+- Star Schema ![image](https://github.com/beDuy29/MarketingCustomer_DWH/assets/117710630/252e01f2-5ddd-410d-8bcf-1f9351a9ae75)
